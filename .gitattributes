@@ -1,1 +1,4 @@
 dataset_vuln_2020_2025_num+texto.csv filter=lfs diff=lfs merge=lfs -text
+dataset_vuln_2020_2025_texto.csv filter=lfs diff=lfs merge=lfs -text
+dataset_vuln_TF_IDF_2020_2025_num+texto.csv filter=lfs diff=lfs merge=lfs -text
+dataset_vuln_TF_IDF_2020_2025_texto.csv filter=lfs diff=lfs merge=lfs -text
